@@ -1,3 +1,4 @@
+<img width="1902" height="1074" alt="屏幕截图 2026-06-14 235120" src="https://github.com/user-attachments/assets/d2969313-b12f-400f-a823-6818dcb732cd" />
 
 # 人工智能爱好者的自我介绍
 ![Uploading 2cb825b30d68d151cfd4a174d39173d0.jpg…]()
