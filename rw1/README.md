@@ -1,7 +1,8 @@
 <img width="1902" height="1074" alt="屏幕截图 2026-06-14 235120" src="https://github.com/user-attachments/assets/d2969313-b12f-400f-a823-6818dcb732cd" />
 
 # 人工智能爱好者的自我介绍
-![Uploading 2cb825b30d68d151cfd4a174d39173d0.jpg…]()
+<img width="361" height="361" alt="微信图片_20260614234602_171_67" src="https://github.com/user-attachments/assets/85f01701-c983-4d24-97ed-9161728fded2" />
+
 
 
 大家好，我是**人工智能爱好者**，我的身份是*AI学习者*。以下是我的自我介绍：
